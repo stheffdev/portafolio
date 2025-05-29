@@ -1,0 +1,36 @@
+
+margen: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+inicio {
+  height: 90%;
+  width: 100%;
+  
+}
+.contenidohome {
+  magin: auto 7%;
+
+}
+h1 {
+    font-family:'Crete  Round'sans-serif;
+    font-weight: 4;
+    font-size: 3.5 rem;
+    line-height: 4rem;
+    letter-spacing: normal;
+
+    }
+.subtitulocom{
+    font-family: 'Roboto', arial;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+
+}
+ .descripcionHome {
+    font-family: 'Poppins'; Arial;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5rem;
+ }
